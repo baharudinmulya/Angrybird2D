@@ -3,7 +3,6 @@ Angry Birds clone game made as part of Agate Studi Independen Game Programming C
 
 ## How to play
 
-
 ### Controls and Keybindings
 - Select a level
 - Pull the slingshot to launch bird
