@@ -4,7 +4,7 @@ Angry Birds clone game made as part of Agate Studi Independen Game Programming C
 ## How to play
 
 ### Build
-You can play the game by accessing the build version on the [releases page](https://github.com/NaufalA/Angry-Bird/releases)
+You can play the game by accessing the build version on the 
 
 ### Controls and Keybindings
 - Select a level
