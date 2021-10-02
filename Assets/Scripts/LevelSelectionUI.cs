@@ -13,6 +13,8 @@ public class LevelSelectionUI : MonoBehaviour
     {
         foreach (var level in LevelSelect.Instance.levelList)
         {
+
+            // Buat pemilihan level atau jika level telah selesai
             GameObject newLevelObj = Instantiate(levelButton, parent);
             newLevelObj.GetComponent<Button>().onClick.AddListener(
                 () => LevelSelect.Instance.LoadLevel(level.levelNumber));
